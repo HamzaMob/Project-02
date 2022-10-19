@@ -1,0 +1,23 @@
+body {
+  background:#A9A9A9;
+  background-image: url("../lano.jpg");
+  text-align: center;
+  font-family: serif;
+  color: pink;
+}
+h1 {
+  font-family: "sans-serif";
+  color: red;
+  text-align: center;
+  background-image: pink;
+}
+h2 {
+  font-family: "sans-serif";
+  color: yellow;
+  text-align: center;
+}
+img {
+	border-radius: 8px;
+	padding: 9px;
+	width: 250px;
+}
