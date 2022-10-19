@@ -3,13 +3,13 @@ body {
   background-image: url("../lano.jpg");
   text-align: center;
   font-family: serif;
-  color: pink;
+  color: yellow;
 }
 h1 {
   font-family: "sans-serif";
   color: red;
   text-align: center;
-  background-image: pink;
+  background-color: black;
 }
 h2 {
   font-family: "sans-serif";
